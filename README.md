@@ -18,8 +18,5 @@ starting position.
 - The map must be rectangular.
 
 This is a simple valid map:
-1111111111111
-10010000000C1
-1000011111001
-1P0011E000001
-1111111111111
+<img width="346" alt="image" src="https://github.com/K-isikoglu/so_long/assets/135221950/174b9db9-2aef-4ba4-a4fd-c1b0ef8f7106">
+
