@@ -18,5 +18,6 @@ starting position.
 - The map must be rectangular.
 
 This is a simple valid map:
-<img width="346" alt="image" src="https://github.com/K-isikoglu/so_long/assets/135221950/174b9db9-2aef-4ba4-a4fd-c1b0ef8f7106">
+
+<img width="96" alt="image" src="https://github.com/K-isikoglu/so_long/assets/135221950/174b9db9-2aef-4ba4-a4fd-c1b0ef8f7106">
 
